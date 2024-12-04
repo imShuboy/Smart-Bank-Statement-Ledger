@@ -1,4 +1,4 @@
-# Smart Bank Statement Ledger
+# SMART BANK STATEMENT LEDGER
 
 # Goal of the Project:
 The goal of the "Smart Bank Statement Ledger" project is to provide users with a secure and efficient platform to manage their bank transaction data. By integrating robust authentication, seamless CRUD operations, and advanced search and filtering capabilities, the system aims to enhance data accessibility, streamline financial record-keeping, and improve user experience.
