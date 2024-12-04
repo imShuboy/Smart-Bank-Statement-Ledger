@@ -1,4 +1,7 @@
-# DemoBankin-App-With-SpringBoot
-DemoBanking Application With SpringBoot: 
-Please remember to change the Database username and password to your own. 
-Also remeber to set your email config to which ever vendor of your choosing as in this project I used HMAILServer to setup emails.
+# SMART BANK STATEMENT LEDGER
+
+# Goal of the Project:
+The goal of the "Smart Bank Statement Ledger" project is to provide users with a secure and efficient platform to manage their bank transaction data. By integrating robust authentication, seamless CRUD operations, and advanced search and filtering capabilities, the system aims to enhance data accessibility, streamline financial record-keeping, and improve user experience.
+
+# Conclusion:
+The "Smart Bank Statement Ledger" successfully delivers a secure, user-friendly solution for managing bank transaction records. With features like advanced search and filtering, and secure data storage in a PL/SQL database, the system ensures efficient financial management while prioritizing usability and security.
